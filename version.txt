@@ -1,0 +1,1 @@
+1.1.2|https://github.com/nestordavflorentin/ndfpos/releases/download/v1.1.2/NDFPOS.exe|NDF POS V1.1.2 - Auto-actualización ADF Soluciones
